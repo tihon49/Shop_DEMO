@@ -25,6 +25,18 @@
 
 ![Иллюстрация к проекту](https://github.com/tihon49/Shop_DEMO/blob/master/media/cart.png)
 
+<br><br>
+
+Страница авторизации:
+
+![Иллюстрация к проекту](https://github.com/tihon49/Shop_DEMO/blob/master/media/login.png)
+
+<br><br>
+
+Страница регистрации:
+
+![Иллюстрация к проекту](https://github.com/tihon49/Shop_DEMO/blob/master/media/register.png)
+
 <hr><br>
 
 ## Для запуска проекта необходимо:
