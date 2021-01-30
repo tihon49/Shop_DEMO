@@ -13,7 +13,17 @@
 
 ![Иллюстрация к проекту](https://github.com/tihon49/Shop_DEMO/blob/master/media/main_page.png)
 
-![Иллюстрация к проекту](https://github.com/tihon49/rutracker_django_parser/blob/master/rutracker/images/raw.png)
+<br><br>
+
+Страница товара:
+
+![Иллюстрация к проекту](https://github.com/tihon49/Shop_DEMO/blob/master/media/item.png)
+
+<br><br>
+
+Страница корзины:
+
+![Иллюстрация к проекту](https://github.com/tihon49/Shop_DEMO/blob/master/media/cart.png)
 
 <hr><br>
 
