@@ -46,7 +46,7 @@
 pip install -r requirements.txt
 ```
 
-произведем миграции
+осуществить миграции
 ```commandline
 python manage.py migrate
 ```
